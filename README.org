@@ -1,0 +1,18 @@
+#+title: Authenticate Printer Library
+
+* Introduction
+
+This is a small library that interacts with CUPS to authenticate to a
+printer server.  A simple C client is located in [[https://github.com/pieterhijma/authenticate-printer][authenticate-printer]].
+
+* Prerequisites
+
+- A C compiler
+- make
+- CUPS
+
+* Compilation
+
+#+begin_src sh
+make
+#+end_src
